@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3.10
 from PIL import Image
 import numpy as np
 import tensorflow as tf
