@@ -7,6 +7,8 @@ Portfolio containing projects for the Year 10 ML Portfolio Assignment
 Files for training, evaluating and predicting handwritten digits using a Deep Convolutional Neural Network. Accuracy is aprroximately 99.5%.
 
 ### House Price Predictor Neural Network (13/08/23)
+[Link](https://github.com/TheGreenHive/Machine-Learning-Portfolio/tree/main/House%20Price%20Predictor%20Neural%20Network)
+
 Files for training, evaluating and predicting the prices of houses. *Note: returns amount in US dollars and is based of US house price data.*
 
 ## Built with
