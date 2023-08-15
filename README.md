@@ -11,5 +11,7 @@ Files for training, evaluating and predicting the prices of houses. *Note: retur
 
 ## References
 [Datasets](https://www.kaggle.com/datasets) - Kaggle
+
 [Markdown Syntax](https://www.markdownguide.org/basic-syntax/) - Markdown Guide
+
 [MNIST](https://www.tensorflow.org/datasets/catalog/mnist) - Tensorflow
