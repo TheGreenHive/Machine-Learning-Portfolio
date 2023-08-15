@@ -6,7 +6,7 @@ Portfolio containing projects for the Year 10 ML Portfolio Assignment
 ### Handwritten Digit Deep Convolution Neural Network (11/08/23)
 [Link](https://github.com/TheGreenHive/Machine-Learning-Portfolio/tree/main/Handwritten%20Digit%20Deep%20Convolutional%20Neural%20Network)
 
-Files for training, evaluating and predicting handwritten digits using a Deep Convolutional Neural Network. Accuracy is aprroximately 99.5%.
+Files for training, evaluating and predicting handwritten digits using a Deep Convolutional Neural Network. Accuracy is approximately 99.5%.
 
 ### House Price Predictor Neural Network (13/08/23)
 [Link](https://github.com/TheGreenHive/Machine-Learning-Portfolio/tree/main/House%20Price%20Predictor%20Neural%20Network)
