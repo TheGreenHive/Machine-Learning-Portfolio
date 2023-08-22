@@ -13,6 +13,11 @@ Files for training, evaluating and predicting handwritten digits using a Deep Co
 
 Files for training, evaluating and predicting the prices of houses. *Note: returns amount in US dollars and is based of US house price data.*
 
+### Deep Convolutional General Adversarial Network (21/08/23)
+[Link](https://github.com/TheGreenHive/Machine-Learning-Portfolio/tree/main/Deep%20Convolutional%20General%20Adversarial%20Network)
+
+Files for traing, evaluating, and creating AI generated images based on the fashion MNIST dataset.
+
 ## Built with
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -33,3 +38,5 @@ Files for training, evaluating and predicting the prices of houses. *Note: retur
 [Markdown Syntax](https://www.markdownguide.org/basic-syntax/) - Markdown Guide
 
 [MNIST](https://www.tensorflow.org/datasets/catalog/mnist) - Tensorflow
+
+[DCGAN Tutorial](https://www.tensorflow.org/tutorials/generative/dcgan) - Tensorflow
