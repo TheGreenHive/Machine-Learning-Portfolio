@@ -3,17 +3,17 @@ Portfolio containing projects for the Year 10 ML Portfolio Assignment
 
 ## Overview
 
-### Handwritten Digit Deep Convolution Neural Network (11/08/23)
+### (Supervised Learning) Handwritten Digit Deep Convolution Neural Network (11/08/23)
 [Link](https://github.com/TheGreenHive/Machine-Learning-Portfolio/tree/main/Handwritten%20Digit%20Deep%20Convolutional%20Neural%20Network)
 
-Files for training, evaluating and predicting handwritten digits using a Deep Convolutional Neural Network. Accuracy is approximately 99.6%.
+Files for training, evaluating and predicting 28x28 handwritten digits using a Deep Convolutional Neural Network based off the MNIST dataset. Accuracy is approximately 99.6%.
 
-### House Price Predictor Neural Network (13/08/23)
+### (Supervised Learning) House Price Predictor Neural Network (13/08/23)
 [Link](https://github.com/TheGreenHive/Machine-Learning-Portfolio/tree/main/House%20Price%20Predictor%20Neural%20Network)
 
 Files for training, evaluating and predicting the prices of houses. *Note: returns amount in US dollars and is based of US house price data.*
 
-### Deep Convolutional General Adversarial Network (21/08/23)
+### (Unsupervised Learning) Deep Convolutional General Adversarial Network (21/08/23)
 [Link](https://github.com/TheGreenHive/Machine-Learning-Portfolio/tree/main/Deep%20Convolutional%20General%20Adversarial%20Network)
 
 Files for traing, evaluating, and creating AI generated images based on the fashion MNIST dataset.
